@@ -38,6 +38,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwynmoss&show_icons=true&locale=en&layout=compact" alt="edwynmoss" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwynmoss&" alt=edwynmoss" /></p>
