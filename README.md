@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **python, php and automated projects**
 
-- 👨‍💻 All of my projects are available at [github.com/yourusername](github.com/yourusername)
+- 👨‍💻 All of my projects are available at [github.com/yourusername](github.com/edwynmoss)
 
 - 📝 I regularly write articles on [<In Development>](<In Development>)
 
@@ -30,7 +30,9 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
 - Access Management System (AD) (Work in Progress)
-- External Attack Surface Management (EASM) (Work in Progress)  
+  
+- External Attack Surface Management (EASM) (Work in Progress)
+   
 - Small Business Management Suite (SBM) (Work in Progress)
 </p>
 
@@ -43,6 +45,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwynmoss&show_icons=true&locale=en&layout=compact" alt="edwynmoss" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwynmoss&show_icons=true&locale=en" alt="edwynmoss" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwynmoss&" alt=edwynmoss" /></p>
