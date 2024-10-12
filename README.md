@@ -37,17 +37,7 @@
 - Small Business Management Suite (SBM) (Work in Progress)
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> 
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwynmoss&show_icons=true&locale=en&layout=compact" alt="edwynmoss" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwynmoss&show_icons=true&locale=en" alt="edwynmoss" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwynmoss&" alt=edwynmoss" /></p>
