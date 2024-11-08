@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **python, php and automated projects**
 
-- 👨‍💻 All of my projects are available at [github.com/yourusername](github.com/edwynmoss)
+- 👨‍💻 All of my projects are available at [github.com/edwynmoss](github.com/edwynmoss)
 
 - 📝 I regularly write articles on [<In Development>](<In Development>)
 
