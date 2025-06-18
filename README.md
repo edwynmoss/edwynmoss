@@ -143,7 +143,7 @@ class EdwynMoss:
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edwynmoss&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edwynmoss&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
