@@ -80,7 +80,7 @@ class EdwynMoss:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Portfolio & Expertise
 
 <div align="center">
 
@@ -88,84 +88,90 @@ class EdwynMoss:
 <tr>
 <td width="50%">
 
-### 🎨 [SimmelPrints](https://github.com/edwynmoss/SimmelPrints)
-*Enterprise E-commerce Platform - Next.js & Node.js*
+### 🎨 E-commerce Platforms
+*Enterprise-grade online retail solutions*
 
-**Status:** ✅ In Production
-- Custom print-on-demand solution
+**Stack:** Next.js, Node.js, React
+- Custom print-on-demand systems
 - Real-time inventory management
-- Automated order processing
+- Automated order processing & fulfillment
 - PM2 deployment with health monitoring
-- Nginx reverse proxy configuration
+- High-performance Nginx configurations
+- Payment gateway integrations
 
 </td>
 <td width="50%">
 
-### 💼 [PayBru Community](https://github.com/edwynmoss/PaybruCommunity)
-*Payment Platform - .NET Blazor & Aspire*
+### 💼 Payment & Community Platforms
+*.NET Blazor & Microservices Architecture*
 
-**Status:** 🔄 Active Development
-- Multi-service architecture (.NET Aspire)
-- Discord bot integration
-- Payment processing workflows
+**Stack:** .NET, Blazor, Aspire
+- Multi-service payment processing
+- Discord & chat bot integrations
+- Community management systems
 - Modular microservices design
-- Community management features
+- Real-time transaction workflows
+- Scalable enterprise architecture
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛡️ [Pentest Copilot](https://github.com/edwynmoss/pentest-copilot)
-*AI-Powered Penetration Testing Framework*
+### 🛡️ Penetration Testing Frameworks
+*AI-powered security assessment platforms*
 
-**Status:** 🔄 Active Development
-- Dockerized Kali Linux environment
-- Automated security testing workflows
-- Windows deployment support
-- Backend API & frontend dashboard
-- Security assessment automation
+**Stack:** Python, Kali Linux, Docker
+- Dockerized penetration testing environments
+- Automated vulnerability scanning
+- Windows & Linux deployment
+- Security assessment dashboards
+- Automated exploit frameworks
+- Compliance & reporting tools
 
 </td>
 <td width="50%">
 
-### 🤖 [HexFlow](https://github.com/edwynmoss/hexflow)
-*AI Workflow Platform - Go, Vue.js & Ollama*
+### 🤖 AI Workflow Automation
+*LLM-powered business automation platforms*
 
-**Status:** 🔄 Active Development
-- Go backend with Node.js integration
-- Docker-compose orchestration
+**Stack:** Go, Vue.js, Ollama, Docker
 - Ollama LLM integration
-- Modern Vue.js frontend
-- AI-powered automation tools
+- Custom AI workflow orchestration
+- Docker-compose microservices
+- Intelligent process automation
+- API-first architecture
+- Modern reactive frontends
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📓 [ANA Notebook](https://github.com/edwynmoss/ANA-Notebook)
-*Next-Generation Note-Taking - Go & Next.js*
+### 📓 Business Management Applications
+*Full-stack enterprise solutions*
 
-**Status:** 🔄 Active Development
-- Go backend API
-- Next.js 15 frontend
-- Modern TypeScript architecture
+**Stack:** Go, Next.js, TypeScript
+- RESTful Go backend APIs
+- Modern Next.js frontends
+- Real-time data synchronization
+- Performance-optimized architecture
 - Comprehensive documentation
-- Performance-focused design
+- Scalable cloud deployments
 
 </td>
 <td width="50%">
 
-### 🔍 Security Tools Suite
-*Cloudflare API, Origin Finder & More*
+### 🔍 Security & Infrastructure Tools
+*DevOps automation & monitoring*
 
-**Status:** ✅ Production Ready
-- Cloudflare user management automation
-- Origin IP discovery tools
-- Network monitoring (JavaScript)
-- PowerShell automation scripts
-- Python security scanners
+**Stack:** Python, PowerShell, JavaScript
+- Cloudflare API automation
+- Origin IP discovery & analysis
+- Network monitoring solutions
+- Infrastructure automation scripts
+- Security scanning utilities
+- Cloud resource management
 
 </td>
 </tr>
