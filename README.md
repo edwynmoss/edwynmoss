@@ -2,10 +2,10 @@
   
 # 👋 Hello, I'm Edwyn Moss!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Expert+%7C+Developer;Founder+of+MillennialProjects.com;Python+%7C+PHP+%7C+Penetration+Testing;Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Expert+%7C+Full+Stack+Developer;Founder+of+MillennialProjects.com;Go+%7C+.NET+%7C+Python+%7C+Next.js;Security+Automation+%7C+Penetration+Testing;Building+Enterprise+Solutions" alt="Typing SVG" />
 
-### 🚀 Passionate Developer & Cybersecurity Expert
-**Founder of [MillennialProjects.com](https://millennialprojects.com)** - *Where innovation meets modern challenges*
+### 🚀 Full Stack Developer & Cybersecurity Specialist
+**Founder of [MillennialProjects.com](https://millennialprojects.com)** - *DevOps & Hosting Platform*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eddiemoss.co.za-blue?style=for-the-badge&logo=safari&logoColor=white)](https://eddiemoss.co.za)
 [![Email](https://img.shields.io/badge/Email-me@eddiemoss.co.za-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@eddiemoss.co.za)
@@ -21,49 +21,60 @@
 class EdwynMoss:
     def __init__(self):
         self.name = "Edwyn Moss"
-        self.role = "Cybersecurity Expert & Full Stack Developer"
-        self.company = "MillennialProjects.com"
-        self.location = "South Africa"
+        self.role = "Full Stack Developer & Cybersecurity Specialist"
+        self.company = "MillennialProjects.com - DevOps & Hosting Platform"
+        self.location = "Cape Town, South Africa"
         
     def current_focus(self):
         return {
-            "learning": ["Blazor WinUI3", "Advanced Cloud Security"],
-            "working_on": ["Private Enterprise Solutions", "Security Automation"],
-            "collaborating": ["Python Projects", "PHP Development", "Security Tools"],
-            "interests": ["Penetration Testing", "Cyber Security", "AI/ML Security"]
+            "learning": ["Go", "Next.js 15", "AI/LLM Integration", "Docker & Orchestration"],
+            "working_on": [
+                "Enterprise E-commerce Platforms",
+                "AI-Powered Security Tools", 
+                "Penetration Testing Frameworks",
+                "Business Automation Solutions"
+            ],
+            "tech_stack": ["Go", ".NET/Blazor", "Python", "Next.js", "TypeScript"],
+            "interests": ["DevSecOps", "Cloud Security", "AI/ML", "Full Stack Architecture"]
         }
     
     def fun_fact(self):
-        return "I code and I know things! 🛡️"
+        return "I build solutions that scale and secure systems that matter! 🛡️💻"
 ```
 
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🔒 Cybersecurity & Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚡ Frontend & Backend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### 🔒 Security & DevOps
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🗄️ Databases & AI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
@@ -77,52 +88,84 @@ class EdwynMoss:
 <tr>
 <td width="50%">
 
-### 🔐 Access Management System (AD)
-*Enterprise-grade Active Directory management solution*
+### 🎨 [SimmelPrints](https://github.com/edwynmoss/SimmelPrints)
+*Enterprise E-commerce Platform - Next.js & Node.js*
 
-**Status:** 🔄 Work in Progress
-- Advanced user lifecycle management
-- Automated provisioning & deprovisioning
-- Security compliance monitoring
-- Role-based access control
+**Status:** ✅ In Production
+- Custom print-on-demand solution
+- Real-time inventory management
+- Automated order processing
+- PM2 deployment with health monitoring
+- Nginx reverse proxy configuration
 
 </td>
 <td width="50%">
 
-### 🛡️ External Attack Surface Management (EASM)
-*Comprehensive security assessment platform*
+### 💼 [PayBru Community](https://github.com/edwynmoss/PaybruCommunity)
+*Payment Platform - .NET Blazor & Aspire*
 
-**Status:** 🔄 Work in Progress
-- Continuous asset discovery
-- Vulnerability assessment automation
-- Threat intelligence integration
-- Real-time security monitoring
+**Status:** 🔄 Active Development
+- Multi-service architecture (.NET Aspire)
+- Discord bot integration
+- Payment processing workflows
+- Modular microservices design
+- Community management features
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💼 Small Business Management Suite (SBM)
-*All-in-one business automation platform*
+### 🛡️ [Pentest Copilot](https://github.com/edwynmoss/pentest-copilot)
+*AI-Powered Penetration Testing Framework*
 
-**Status:** 🔄 Work in Progress
-- Customer relationship management
-- Inventory & financial tracking
-- Automated reporting systems
-- Multi-tenant architecture
+**Status:** 🔄 Active Development
+- Dockerized Kali Linux environment
+- Automated security testing workflows
+- Windows deployment support
+- Backend API & frontend dashboard
+- Security assessment automation
 
 </td>
 <td width="50%">
 
-### 🔍 Security Automation Tools
-*Custom penetration testing & security utilities*
+### 🤖 [HexFlow](https://github.com/edwynmoss/hexflow)
+*AI Workflow Platform - Go, Vue.js & Ollama*
 
-**Status:** 🔄 Continuous Development
-- Custom exploitation frameworks
-- Automated vulnerability scanners
-- Security assessment scripts
-- Compliance checking tools
+**Status:** 🔄 Active Development
+- Go backend with Node.js integration
+- Docker-compose orchestration
+- Ollama LLM integration
+- Modern Vue.js frontend
+- AI-powered automation tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📓 [ANA Notebook](https://github.com/edwynmoss/ANA-Notebook)
+*Next-Generation Note-Taking - Go & Next.js*
+
+**Status:** 🔄 Active Development
+- Go backend API
+- Next.js 15 frontend
+- Modern TypeScript architecture
+- Comprehensive documentation
+- Performance-focused design
+
+</td>
+<td width="50%">
+
+### 🔍 Security Tools Suite
+*Cloudflare API, Origin Finder & More*
+
+**Status:** ✅ Production Ready
+- Cloudflare user management automation
+- Origin IP discovery tools
+- Network monitoring (JavaScript)
+- PowerShell automation scripts
+- Python security scanners
 
 </td>
 </tr>
@@ -160,16 +203,16 @@ class EdwynMoss:
 <div align="center">
 
 ### 💬 Open to discussing:
-- **Cybersecurity Solutions** & Penetration Testing
-- **Python & PHP Development** Projects
-- **Automation & Security Tools** Development
-- **Business Process Optimization**
+- **Full Stack Development** - Go, .NET, Next.js, Python
+- **DevSecOps & Cloud Security** - CI/CD, Container Security
+- **AI/LLM Integration** - Ollama, Automation Tools
+- **E-commerce & Enterprise Solutions**
 
 ### 📬 Reach out for:
-- Security consultations
-- Development collaborations
-- Speaking opportunities
-- Open source contributions
+- Full-stack development projects
+- Security assessments & penetration testing
+- DevOps consulting & hosting solutions
+- Open source collaborations
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwynmoss)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://eddiemoss.co.za)
@@ -182,7 +225,7 @@ class EdwynMoss:
 
 <div align="center">
   
-### 🎯 *"Securing the digital world, one line of code at a time"*
+### 🎯 *"Building scalable solutions & securing the digital frontier"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=edwynmoss&color=brightgreen&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/edwynmoss?style=for-the-badge&color=blue)](https://github.com/edwynmoss)
