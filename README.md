@@ -85,8 +85,8 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
 
 ### Signal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwynmoss&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0B1B1F&amp;title_color=F4B860&amp;text_color=E7DCCB&amp;icon_color=3CB4B8" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwynmoss&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1B1F&amp;title_color=F4B860&amp;text_color=E7DCCB&amp;icon_color=3CB4B8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwynmoss&show_icons=true&hide_border=true&bg_color=0B1B1F&title_color=F4B860&text_color=E7DCCB&icon_color=3CB4B8" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwynmoss&layout=compact&langs_count=8&hide_border=true&bg_color=0B1B1F&title_color=F4B860&text_color=E7DCCB&icon_color=3CB4B8" alt="Top languages" />
 </div>
 
 ### Activity
