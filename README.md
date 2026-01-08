@@ -33,27 +33,27 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
 ### Stack Atlas
 <div align="center">
   <p><strong>Languages</strong></p>
-  <img src="https://img.shields.io/badge/C%23-%20-1F6F78?style=flat-square&logo=csharp&logoColor=F4B860&labelColor=0B1B1F" alt="C sharp badge" />
-  <img src="https://img.shields.io/badge/PHP-%20-1F6F78?style=flat-square&logo=php&logoColor=F4B860&labelColor=0B1B1F" alt="PHP badge" />
-  <img src="https://img.shields.io/badge/TypeScript-%20-1F6F78?style=flat-square&logo=typescript&logoColor=F4B860&labelColor=0B1B1F" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/Python-%20-1F6F78?style=flat-square&logo=python&logoColor=F4B860&labelColor=0B1B1F" alt="Python badge" />
-  <img src="https://img.shields.io/badge/JavaScript-%20-1F6F78?style=flat-square&logo=javascript&logoColor=F4B860&labelColor=0B1B1F" alt="JavaScript badge" />
-  <img src="https://img.shields.io/badge/PowerShell-%20-1F6F78?style=flat-square&logo=powershell&logoColor=F4B860&labelColor=0B1B1F" alt="PowerShell badge" />
+  <img src="https://img.shields.io/badge/C%23--1F6F78?style=flat-square&logo=csharp&logoColor=F4B860&labelColor=0B1B1F" alt="C sharp badge" />
+  <img src="https://img.shields.io/badge/PHP--1F6F78?style=flat-square&logo=php&logoColor=F4B860&labelColor=0B1B1F" alt="PHP badge" />
+  <img src="https://img.shields.io/badge/TypeScript--1F6F78?style=flat-square&logo=typescript&logoColor=F4B860&labelColor=0B1B1F" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/Python--1F6F78?style=flat-square&logo=python&logoColor=F4B860&labelColor=0B1B1F" alt="Python badge" />
+  <img src="https://img.shields.io/badge/JavaScript--1F6F78?style=flat-square&logo=javascript&logoColor=F4B860&labelColor=0B1B1F" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/PowerShell--1F6F78?style=flat-square&logo=powershell&logoColor=F4B860&labelColor=0B1B1F" alt="PowerShell badge" />
 
   <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/Tailwind-%20-1F6F78?style=flat-square&logo=tailwind-css&logoColor=F4B860&labelColor=0B1B1F" alt="Tailwind badge" />
-  <img src="https://img.shields.io/badge/React-%20-1F6F78?style=flat-square&logo=react&logoColor=F4B860&labelColor=0B1B1F" alt="React badge" />
-  <img src="https://img.shields.io/badge/Next.js-%20-1F6F78?style=flat-square&logo=nextdotjs&logoColor=F4B860&labelColor=0B1B1F" alt="Next.js badge" />
+  <img src="https://img.shields.io/badge/Tailwind--1F6F78?style=flat-square&logo=tailwind-css&logoColor=F4B860&labelColor=0B1B1F" alt="Tailwind badge" />
+  <img src="https://img.shields.io/badge/React--1F6F78?style=flat-square&logo=react&logoColor=F4B860&labelColor=0B1B1F" alt="React badge" />
+  <img src="https://img.shields.io/badge/Next.js--1F6F78?style=flat-square&logo=nextdotjs&logoColor=F4B860&labelColor=0B1B1F" alt="Next.js badge" />
 
   <p><strong>Backend</strong></p>
-  <img src="https://img.shields.io/badge/Laravel-%20-1F6F78?style=flat-square&logo=laravel&logoColor=F4B860&labelColor=0B1B1F" alt="Laravel badge" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-%20-1F6F78?style=flat-square&logo=dotnet&logoColor=F4B860&labelColor=0B1B1F" alt="ASP.NET Core badge" />
-  <img src="https://img.shields.io/badge/FastAPI-%20-1F6F78?style=flat-square&logo=fastapi&logoColor=F4B860&labelColor=0B1B1F" alt="FastAPI badge" />
+  <img src="https://img.shields.io/badge/Laravel--1F6F78?style=flat-square&logo=laravel&logoColor=F4B860&labelColor=0B1B1F" alt="Laravel badge" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core--1F6F78?style=flat-square&logo=dotnet&logoColor=F4B860&labelColor=0B1B1F" alt="ASP.NET Core badge" />
+  <img src="https://img.shields.io/badge/FastAPI--1F6F78?style=flat-square&logo=fastapi&logoColor=F4B860&labelColor=0B1B1F" alt="FastAPI badge" />
 
   <p><strong>Security and Ops</strong></p>
-  <img src="https://img.shields.io/badge/Docker-%20-1F6F78?style=flat-square&logo=docker&logoColor=F4B860&labelColor=0B1B1F" alt="Docker badge" />
-  <img src="https://img.shields.io/badge/Cloudflare-%20-1F6F78?style=flat-square&logo=cloudflare&logoColor=F4B860&labelColor=0B1B1F" alt="Cloudflare badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-%20-1F6F78?style=flat-square&logo=kalilinux&logoColor=F4B860&labelColor=0B1B1F" alt="Kali Linux badge" />
+  <img src="https://img.shields.io/badge/Docker--1F6F78?style=flat-square&logo=docker&logoColor=F4B860&labelColor=0B1B1F" alt="Docker badge" />
+  <img src="https://img.shields.io/badge/Cloudflare--1F6F78?style=flat-square&logo=cloudflare&logoColor=F4B860&labelColor=0B1B1F" alt="Cloudflare badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux--1F6F78?style=flat-square&logo=kalilinux&logoColor=F4B860&labelColor=0B1B1F" alt="Kali Linux badge" />
 </div>
 
 ### Project Radar
@@ -70,14 +70,14 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
       <div align="center">
         <h3>SimmelPrints</h3>
         <p>E-commerce platform for custom printing and order management.</p>
-        <p><strong>Next.js / FastAPI / MongoDB</strong></p>
+        <p><strong>Next.js / MongoDB</strong></p>
       </div>
     </td>
     <td width="33%">
       <div align="center">
-        <h3>Core Development</h3>
-        <p>Enterprise gaming infrastructure and client platform tooling.</p>
-        <p><strong>Next.js / Prisma / PostgreSQL</strong></p>
+        <h3>GrappleGaming</h3>
+        <p>Enterprise gaming infrastructure and platform services.</p>
+        <p><strong>Laravel / PHP</strong></p>
       </div>
     </td>
   </tr>
@@ -85,8 +85,8 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
 
 ### Signal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwynmoss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1B1F&title_color=F4B860&text_color=E7DCCB&icon_color=3CB4B8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwynmoss&layout=compact&langs_count=8&hide_border=true&bg_color=0B1B1F&title_color=F4B860&text_color=E7DCCB&icon_color=3CB4B8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edwynmoss&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0B1B1F&amp;title_color=F4B860&amp;text_color=E7DCCB&amp;icon_color=3CB4B8" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwynmoss&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0B1B1F&amp;title_color=F4B860&amp;text_color=E7DCCB&amp;icon_color=3CB4B8" alt="Top languages" />
 </div>
 
 ### Activity
