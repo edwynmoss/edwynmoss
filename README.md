@@ -26,7 +26,8 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
 
 ### Coordinates
 - Base: Cape Town, South Africa
-- Current focus: Go, Next.js 15, LLM security, cloud hardening
+- Time zone: SAST (UTC+2)
+- Current focus: Next.js + Tailwind, Laravel and ASP.NET Core services, FastAPI tooling
 - Off hours: CTFs, open source, coffee
 
 ### Stack Atlas
@@ -40,14 +41,14 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
   <img src="https://img.shields.io/badge/PowerShell-%20-1F6F78?style=flat-square&logo=powershell&logoColor=F4B860&labelColor=0B1B1F" alt="PowerShell badge" />
 
   <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/Next.js-%20-1F6F78?style=flat-square&logo=nextdotjs&logoColor=F4B860&labelColor=0B1B1F" alt="Next.js badge" />
-  <img src="https://img.shields.io/badge/React-%20-1F6F78?style=flat-square&logo=react&logoColor=F4B860&labelColor=0B1B1F" alt="React badge" />
   <img src="https://img.shields.io/badge/Tailwind-%20-1F6F78?style=flat-square&logo=tailwind-css&logoColor=F4B860&labelColor=0B1B1F" alt="Tailwind badge" />
+  <img src="https://img.shields.io/badge/React-%20-1F6F78?style=flat-square&logo=react&logoColor=F4B860&labelColor=0B1B1F" alt="React badge" />
+  <img src="https://img.shields.io/badge/Next.js-%20-1F6F78?style=flat-square&logo=nextdotjs&logoColor=F4B860&labelColor=0B1B1F" alt="Next.js badge" />
 
   <p><strong>Backend</strong></p>
-  <img src="https://img.shields.io/badge/Node.js-%20-1F6F78?style=flat-square&logo=nodedotjs&logoColor=F4B860&labelColor=0B1B1F" alt="Node.js badge" />
-  <img src="https://img.shields.io/badge/.NET-%20-1F6F78?style=flat-square&logo=dotnet&logoColor=F4B860&labelColor=0B1B1F" alt="Dotnet badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%20-1F6F78?style=flat-square&logo=postgresql&logoColor=F4B860&labelColor=0B1B1F" alt="PostgreSQL badge" />
+  <img src="https://img.shields.io/badge/Laravel-%20-1F6F78?style=flat-square&logo=laravel&logoColor=F4B860&labelColor=0B1B1F" alt="Laravel badge" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-%20-1F6F78?style=flat-square&logo=dotnet&logoColor=F4B860&labelColor=0B1B1F" alt="ASP.NET Core badge" />
+  <img src="https://img.shields.io/badge/FastAPI-%20-1F6F78?style=flat-square&logo=fastapi&logoColor=F4B860&labelColor=0B1B1F" alt="FastAPI badge" />
 
   <p><strong>Security and Ops</strong></p>
   <img src="https://img.shields.io/badge/Docker-%20-1F6F78?style=flat-square&logo=docker&logoColor=F4B860&labelColor=0B1B1F" alt="Docker badge" />
@@ -60,23 +61,23 @@ Security-first engineer focused on resilient platforms, clean interfaces, and me
   <tr>
     <td width="33%">
       <div align="center">
-        <h3>Security Automation</h3>
-        <p>Automated vulnerability scanning and reproducible testbeds.</p>
-        <p><strong>Python / Docker / Kali</strong></p>
+        <h3>Security Toolbox</h3>
+        <p>Security scanning platform with AMASS integration and live output.</p>
+        <p><strong>Next.js / FastAPI / MySQL</strong></p>
       </div>
     </td>
     <td width="33%">
       <div align="center">
-        <h3>Millennial Projects</h3>
-        <p>DevOps-first hosting and platform tooling for small teams.</p>
-        <p><strong>.NET / Blazor / DevOps</strong></p>
+        <h3>SimmelPrints</h3>
+        <p>E-commerce platform for custom printing and order management.</p>
+        <p><strong>Next.js / FastAPI / MongoDB</strong></p>
       </div>
     </td>
     <td width="33%">
       <div align="center">
-        <h3>Commerce Platforms</h3>
-        <p>Scalable storefronts with real-time inventory and payments.</p>
-        <p><strong>Next.js / Node.js / PostgreSQL</strong></p>
+        <h3>Core Development</h3>
+        <p>Enterprise gaming infrastructure and client platform tooling.</p>
+        <p><strong>Next.js / Prisma / PostgreSQL</strong></p>
       </div>
     </td>
   </tr>
