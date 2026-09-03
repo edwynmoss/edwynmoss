@@ -16,5 +16,3 @@ I'm an engineer in Cape Town. I run [Millennial Projects](https://millennialproj
 - Writeups from TryHackMe, PortSwigger and OffSec labs: [eddiemoss.co.za/writeups](https://eddiemoss.co.za/writeups)
 - Two small tools I've released: [clear-rows](https://github.com/edwynmoss/clear-rows), for searching very large CSV exports without freezing, and [origin_finder](https://github.com/edwynmoss/origin_finder), for finding origin servers behind CDNs
 - [LinkedIn](https://www.linkedin.com/in/edwynmoss)
-
-<sub>The two images are rebuilt every night by [scripts/build.mjs](scripts/build.mjs) from the GitHub API, in the same style as [eddiemoss.co.za](https://eddiemoss.co.za).</sub>
