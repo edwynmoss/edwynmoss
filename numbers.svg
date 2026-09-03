@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="132" viewBox="0 0 900 132" role="img" aria-label="GitHub numbers for edwynmoss">
+  <defs>
+    <style>
+      .v { font: 800 38px "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; fill: #F4B860; }
+      .l { font: 600 11px Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; fill: #3CB4B8; letter-spacing: 1.4px; }
+      .u { font: 500 10px Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; fill: #E7DCCB; opacity: .55; }
+      .rise { opacity: 0; animation: rise .9s cubic-bezier(.2,.8,.2,1) forwards; }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px);} to { opacity: 1; transform: translateY(0);} }
+    </style>
+    <clipPath id="f"><rect width="900" height="132" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#f)">
+    <rect width="900" height="132" fill="#0B1B1F"/>
+    
+  <g transform="translate(18 18)">
+    <rect width="205.5" height="96" rx="12" fill="#0F2A30" stroke="#1F6F78" stroke-opacity="0.6"/>
+    <rect x="0" y="0" width="4" height="96" rx="2" fill="#F4B860" opacity="0.9"/>
+    <g class="rise" style="animation-delay:0.15s">
+      <text class="v" x="20" y="56">15.9k</text>
+      <text class="l" x="20" y="80">CONTRIBUTIONS · 12 MO</text>
+    </g>
+  </g>
+  <g transform="translate(237.5 18)">
+    <rect width="205.5" height="96" rx="12" fill="#0F2A30" stroke="#1F6F78" stroke-opacity="0.6"/>
+    <rect x="0" y="0" width="4" height="96" rx="2" fill="#F4B860" opacity="0.9"/>
+    <g class="rise" style="animation-delay:0.33s">
+      <text class="v" x="20" y="56">3,925</text>
+      <text class="l" x="20" y="80">MERGED PULL REQUESTS</text>
+    </g>
+  </g>
+  <g transform="translate(457 18)">
+    <rect width="205.5" height="96" rx="12" fill="#0F2A30" stroke="#1F6F78" stroke-opacity="0.6"/>
+    <rect x="0" y="0" width="4" height="96" rx="2" fill="#F4B860" opacity="0.9"/>
+    <g class="rise" style="animation-delay:0.51s">
+      <text class="v" x="20" y="56">98</text>
+      <text class="l" x="20" y="80">REPOSITORIES</text>
+    </g>
+  </g>
+  <g transform="translate(676.5 18)">
+    <rect width="205.5" height="96" rx="12" fill="#0F2A30" stroke="#1F6F78" stroke-opacity="0.6"/>
+    <rect x="0" y="0" width="4" height="96" rx="2" fill="#F4B860" opacity="0.9"/>
+    <g class="rise" style="animation-delay:0.69s">
+      <text class="v" x="20" y="56">18</text>
+      <text class="l" x="20" y="80">ORGANISATIONS</text>
+    </g>
+  </g>
+    <text class="u" x="882" y="126" text-anchor="end">updated 2026-09-03 · includes private work</text>
+  </g>
+</svg>
