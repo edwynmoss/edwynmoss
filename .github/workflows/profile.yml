@@ -1,0 +1,42 @@
+name: Profile
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build boot.svg and contributions.svg
+        env:
+          # PROFILE_TOKEN: classic PAT with repo + read:org so merged PRs count private work.
+          # Without it the build uses GITHUB_TOKEN and leaves the merged-PR line out.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          HAS_PAT: ${{ secrets.PROFILE_TOKEN != '' && '1' || '0' }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: npm run build
+
+      - name: Publish to the output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          keep_files: true
