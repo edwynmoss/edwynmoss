@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="44" viewBox="0 0 780 44" role="img" aria-label="Rotating tagline">
+  <defs>
+    <style>
+      .t { font: 600 18px Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; fill: #F4B860; }
+      .p { font: 700 18px Consolas, "SFMono-Regular", Menlo, "Courier New", monospace; fill: #3CB4B8; }
+    </style>
+    <clipPath id="c0"><rect x="44" y="0" height="44" width="0"><animate attributeName="width" values="0;0;572;572;0;0" keyTimes="0;0;0.1125;0.23125;0.23125;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c1"><rect x="44" y="0" height="44" width="0"><animate attributeName="width" values="0;0;693;693;0;0" keyTimes="0;0.25;0.3625;0.48125;0.48125;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="44" y="0" height="44" width="0"><animate attributeName="width" values="0;0;671;671;0;0" keyTimes="0;0.5;0.6125;0.73125;0.73125;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="44" y="0" height="44" width="0"><animate attributeName="width" values="0;0;682;682;0;0" keyTimes="0;0.75;0.8625;0.98125;0.98125;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="780" height="44" rx="8" fill="#0B1B1F"/>
+  <text class="p" x="20" y="29">❯</text>
+
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0;0.23125;0.23125;1" dur="16s" repeatCount="indefinite"/>
+    <text class="t" x="44" y="29" clip-path="url(#c0)">Full-stack engineer · C#, TypeScript, PHP, Python, Go</text>
+    <rect y="12" width="10" height="21" fill="#F4B860"><animate attributeName="x" values="46;46;618;618;46;46" keyTimes="0;0;0.1125;0.23125;0.23125;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.25;0.48125;0.48125;1" dur="16s" repeatCount="indefinite"/>
+    <text class="t" x="44" y="29" clip-path="url(#c1)">Founder-builder: SimmelPrints, Paybru, P-ssword123, Streamposer</text>
+    <rect y="12" width="10" height="21" fill="#F4B860"><animate attributeName="x" values="46;46;739;739;46;46" keyTimes="0;0.25;0.3625;0.48125;0.48125;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5;0.73125;0.73125;1" dur="16s" repeatCount="indefinite"/>
+    <text class="t" x="44" y="29" clip-path="url(#c2)">Security-first: threat models, observability, hard parts first</text>
+    <rect y="12" width="10" height="21" fill="#F4B860"><animate attributeName="x" values="46;46;717;717;46;46" keyTimes="0;0.5;0.6125;0.73125;0.73125;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+  <g>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.75;0.98125;0.98125;1" dur="16s" repeatCount="indefinite"/>
+    <text class="t" x="44" y="29" clip-path="url(#c3)">Thousands of commits a year, most of them behind private walls</text>
+    <rect y="12" width="10" height="21" fill="#F4B860"><animate attributeName="x" values="46;46;728;728;46;46" keyTimes="0;0.75;0.8625;0.98125;0.98125;1" dur="16s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
